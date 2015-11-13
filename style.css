@@ -1,0 +1,26 @@
+body {
+  font-family: 'Calibri', arial, sans-serif;
+  font-weight: 300;
+  background: url(screen2.jpg) repeat;
+  cursor:crosshair;
+}
+
+img{
+	width: 200px;
+  height:150px;
+}
+
+
+h2, h3 {
+	color: #98BDEA;
+}
+
+#summary{
+	color: purple;
+}
+
+.heading{
+	font-style: italic;
+	font-weight: ;
+}
+
